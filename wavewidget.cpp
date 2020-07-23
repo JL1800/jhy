@@ -1,5 +1,6 @@
 ///张法桐
 //王振
+//王瑶
 #include "wavewidget.h"
 #include <QPainter>
 #include <QTimer>
