@@ -1,7 +1,7 @@
 ///张法桐
 //王振11
 //王瑶
-//onemore
+//李家璇
 #include "wavewidget.h"
 #include <QPainter>
 #include <QTimer>
